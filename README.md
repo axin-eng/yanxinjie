@@ -26,10 +26,10 @@ print(f)
 
 3.插入代码块
 
-```python
-import random
+```
+`import random
 f=random.randint(1,10)
-print(f)
+print(f)`
 ```
 
 4.插入表格
