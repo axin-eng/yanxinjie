@@ -25,12 +25,10 @@ print(f)
 ```
 
 3.插入代码块
-
-```
 `import random
 f=random.randint(1,10)
 print(f)`
-```
+
 
 4.插入表格
 
